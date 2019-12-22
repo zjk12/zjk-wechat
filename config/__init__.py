@@ -14,9 +14,9 @@ from blueapps.core.celery import celery_app
 # SaaS运行版本，如非必要请勿修改
 RUN_VER = 'open'
 # SaaS应用ID
-APP_CODE = 'gc-wechat'
+APP_CODE = 'zjk-wechat'
 # SaaS安全密钥，注意请勿泄露该密钥
-SECRET_KEY = 'a271ce3a-f4cd-4520-932b-7430edb080d5'
+SECRET_KEY = '4387de54-5b6a-4a57-937a-85ed11449b5c'
 # 蓝鲸SaaS平台URL，例如 http://paas.bking.com
 BK_URL = 'https://paas-class.bktencent.com'
 

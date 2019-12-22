@@ -26,7 +26,7 @@ DATABASES.update(
             'NAME': '3170932018_zhangjiake_t',  # 数据库名
             'USER': 'zhangjiake',  # 数据库用户
             'PASSWORD': 'Zwi5mQQvBkZDPQVM',  # 数据库密码
-            'HOST': '10.0.2.8',  # 数据库主机    
+            'HOST': '10.0.2.8',  # 数据库主机
             'PORT': '3306',  # 数据库端口
         },
     }
